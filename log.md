@@ -28,6 +28,8 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
-### Day 0: May 24, 2020
+### Day 1: May 24, 2020
 
-**Today's Progress**:
+**Today's Progress**: Worked on shopping cart in Flat Iron's bootcamp prep course.
+
+**Thoughts**: I struggled with displaying all shopping cart items and their prices in one cohesive string, but I managed to get the cart working with If and If-Else clauses, and string concatenation.
